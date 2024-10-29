@@ -36,8 +36,8 @@ Um tocador de música simples, implementado em Java Swing, com suporte para repr
 
 ## Requisitos do Sistema
 
-    Java JDK 8 ou superior
-    Biblioteca JLayer para reprodução de MP3, disponível em https://github.com/umjammer/jlayer.
+Java JDK 8 ou superior
+Biblioteca JLayer para reprodução de MP3, disponível em https://github.com/umjammer/jlayer.
 
 ## Screenshots
 <img title="Tela Inicial" src="src/assets/ss1.png">
