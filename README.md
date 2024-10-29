@@ -45,7 +45,7 @@ Um tocador de música simples, implementado em Java Swing, com suporte para repr
 <img title="Carregar Playlists" src="src/assets/ss3.png">
 
 ## Personalização
-    As cores do fundo e do texto podem ser alteradas através das variáveis TEXT_COLOR e FRAME_COLOR na classe JanelaTocadorDeMusica.
+As cores do fundo e do texto podem ser alteradas através das variáveis TEXT_COLOR e FRAME_COLOR na classe JanelaTocadorDeMusica.
 
 ## Contribuição
 
